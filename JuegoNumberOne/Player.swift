@@ -11,5 +11,8 @@ import SpriteKit
  /*
  
  Aqui va a ir la clase del player
+ 
+ 
+ Patricio Saldivar
  */
 
