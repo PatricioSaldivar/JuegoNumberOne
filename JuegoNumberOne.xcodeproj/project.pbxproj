@@ -16,6 +16,7 @@
 		9DEE01D32220A0A4004E30EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEE01D12220A0A4004E30EE /* LaunchScreen.storyboard */; };
 		9DEE01DE2220A0A4004E30EE /* JuegoNumberOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01DD2220A0A4004E30EE /* JuegoNumberOneTests.swift */; };
 		9DEE01E92220A0A4004E30EE /* JuegoNumberOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01E82220A0A4004E30EE /* JuegoNumberOneUITests.swift */; };
+		9DEE01F72220A4EE004E30EE /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01F62220A4EE004E30EE /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9DEE01E42220A0A4004E30EE /* JuegoNumberOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JuegoNumberOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DEE01E82220A0A4004E30EE /* JuegoNumberOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoNumberOneUITests.swift; sourceTree = "<group>"; };
 		9DEE01EA2220A0A4004E30EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DEE01F62220A4EE004E30EE /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9DEE01C22220A097004E30EE /* AppDelegate.swift */,
 				9DEE01C42220A097004E30EE /* GameScene.sks */,
 				9DEE01C82220A097004E30EE /* GameScene.swift */,
+				9DEE01F62220A4EE004E30EE /* Player.swift */,
 				9DEE01CA2220A097004E30EE /* GameViewController.swift */,
 				9DEE01CC2220A097004E30EE /* Main.storyboard */,
 				9DEE01CF2220A0A4004E30EE /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DEE01F72220A4EE004E30EE /* Player.swift in Sources */,
 				9DEE01C92220A097004E30EE /* GameScene.swift in Sources */,
 				9DEE01CB2220A097004E30EE /* GameViewController.swift in Sources */,
 				9DEE01C32220A097004E30EE /* AppDelegate.swift in Sources */,
