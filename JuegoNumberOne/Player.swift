@@ -12,5 +12,8 @@ import SpriteKit
  //Jorge Elizondo
  //Atributos Player: 
  Aqui va a ir la clase del player
+ 
+ 
+ Patricio Saldivar
  */
 
