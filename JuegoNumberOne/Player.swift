@@ -9,7 +9,8 @@
 import Foundation
 import SpriteKit
  /*
- //Jorge Elizondo 
+ //Jorge Elizondo
+ //Atributos Player: 
  Aqui va a ir la clase del player
  
  Otra cosa (pruebas de merge)
