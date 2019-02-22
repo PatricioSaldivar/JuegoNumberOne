@@ -12,7 +12,7 @@ import SpriteKit
  //Jorge Elizondo 
  Aqui va a ir la clase del player
  
- 
+ Otra cosa (pruebas de merge)
  Patricio Saldivar
  */
 
