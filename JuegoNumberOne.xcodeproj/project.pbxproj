@@ -17,6 +17,7 @@
 		9DEE01DE2220A0A4004E30EE /* JuegoNumberOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01DD2220A0A4004E30EE /* JuegoNumberOneTests.swift */; };
 		9DEE01E92220A0A4004E30EE /* JuegoNumberOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01E82220A0A4004E30EE /* JuegoNumberOneUITests.swift */; };
 		9DEE01F72220A4EE004E30EE /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEE01F62220A4EE004E30EE /* Player.swift */; };
+		9DEE01FB2220CB8F004E30EE /* GameMenu.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9DEE01FA2220CB8F004E30EE /* GameMenu.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		9DEE01E82220A0A4004E30EE /* JuegoNumberOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoNumberOneUITests.swift; sourceTree = "<group>"; };
 		9DEE01EA2220A0A4004E30EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DEE01F62220A4EE004E30EE /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		9DEE01FA2220CB8F004E30EE /* GameMenu.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameMenu.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				9DEE01C22220A097004E30EE /* AppDelegate.swift */,
 				9DEE01C42220A097004E30EE /* GameScene.sks */,
+				9DEE01FA2220CB8F004E30EE /* GameMenu.sks */,
 				9DEE01C82220A097004E30EE /* GameScene.swift */,
 				9DEE01F62220A4EE004E30EE /* Player.swift */,
 				9DEE01CA2220A097004E30EE /* GameViewController.swift */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DEE01FB2220CB8F004E30EE /* GameMenu.sks in Resources */,
 				9DEE01CE2220A097004E30EE /* Main.storyboard in Resources */,
 				9DEE01C52220A097004E30EE /* GameScene.sks in Resources */,
 				9DEE01D02220A0A4004E30EE /* Assets.xcassets in Resources */,
