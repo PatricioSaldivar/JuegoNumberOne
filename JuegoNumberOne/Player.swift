@@ -13,8 +13,12 @@ import SpriteKit
  //Atributos Player: 
  Aqui va a ir la clase del player
  
+<<<<<<< HEAD
  
  
+=======
+ Otra cosa (pruebas de merge)
+>>>>>>> 3630a56842711d3a9a4a276b6a74542d95cde2fa
  Patricio Saldivar
  */
 
@@ -34,11 +38,6 @@ class Player : SKScene{
         
     }
     
-    init(tagName: String){
-        self.tagName = tagName
-      
-        
-    }
     
     required init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
