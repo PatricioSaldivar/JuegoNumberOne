@@ -20,6 +20,11 @@ import SpriteKit
  Otra cosa (pruebas de merge)
 >>>>>>> 3630a56842711d3a9a4a276b6a74542d95cde2fa
  Patricio Saldivar
+ .
+ ll
+ ll
+ ll
+ 
  */
 
 class Player : SKScene{
